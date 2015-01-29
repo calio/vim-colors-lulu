@@ -272,4 +272,5 @@ if &t_Co > 255
   hi javaScript ctermfg=151
   hi DjangoBlock ctermfg=35 cterm=none
   hi CtrlPMatch ctermbg=220 ctermfg=16
+  hi ColorColumn ctermbg=17
 endif
