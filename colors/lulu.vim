@@ -192,7 +192,7 @@ if &t_Co > 255
   hi CursorColumn ctermbg=239
   hi NonText ctermbg=0 ctermfg=102
   hi Conceal ctermbg=237 ctermfg=230
-  hi Comment ctermfg=238
+  hi Comment ctermfg=245
   hi CommentURL cterm=underline ctermfg=68
   hi CommentEmail cterm=underline ctermfg=68
   hi Constant cterm=bold ctermfg=118
